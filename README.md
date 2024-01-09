@@ -5,16 +5,16 @@
 </h2>
 
 
-<!--
+
 <p align="center">
   <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
- -->
 
-<!-- <a href="#">
+
+<a href="#">
   <img align="right" src="https://komarev.com/ghpvc/?username=cuongpham2107&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a> -->
+</a>
 
 <!-- Intro  -->
 <h3 align="center">
