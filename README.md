@@ -132,3 +132,10 @@
 
 
 ![Cuong Pham Graph](https://github-readme-activity-graph.vercel.app/graph?username=cuongpham2107&custom_title=Cuongpham&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
+
+Change opacity in VS code:
+```cmd 
+sudo sed -i '' 's/webPreferences/frame:!1,transparent:!0,vibrancy:"under-window",opacity:0.9,webPreferences/' '/Applications/Visual Studio Code.app/Contents/Resources/app/out/main.js'
+```
