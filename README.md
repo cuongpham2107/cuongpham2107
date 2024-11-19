@@ -136,7 +136,7 @@
 
 
 Change opacity in VS code:
-```cmd 
+```javascript 
 sudo sed -i '' 's/webPreferences/frame:!1,transparent:!0,vibrancy:"under-window",opacity:0.9,webPreferences/' '/Applications/Visual Studio Code.app/Contents/Resources/app/out/main.js'
 ```
 
