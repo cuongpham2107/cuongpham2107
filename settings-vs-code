@@ -1,0 +1,69 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.folders.theme": "specific",
+    "workbench.colorTheme": "Anysphere dark",
+    "editor.fontFamily": "JetBrains Mono",
+    "workbench.activityBar.location": "top",
+
+    
+    "security.workspace.trust.untrustedFiles": "open",
+    "vue.server.hybridMode": "typeScriptPluginOnly",
+    "files.associations": {
+        "*.csv": "csv (pipe)"
+    },
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.csv": "default",
+        "*.sqlite": "default"
+    },
+    "[csv (pipe)]": {
+        
+    },
+    "[vue]": {
+
+        "editor.defaultFormatter": "Vue.volar"
+    },
+    "[blade]": {
+        "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+    },
+    "vscodeGoogleTranslate.preferredLanguage": "Vietnamese",
+    "google-translate.firstLanguage": "en",
+    "google-translate.secondLanguage": "vi",
+    "chat.editing.alwaysSaveWithGeneratedChanges": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "python.createEnvironment.trigger": "off",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "svelte.enable-ts-plugin": true,
+    "editor.renderWhitespace": "none",
+    "editor.wordWrap": "on",
+    "editor.smoothScrolling": true,
+    "editor.semanticHighlighting.enabled": true,
+    "editor.scrollbar.scrollByPage": true,
+    "editor.scrollbar.ignoreHorizontalScrollbarInContentHeight": true,
+    "editor.renderLineHighlightOnlyWhenFocus": true,
+    "editor.renderControlCharacters": false,
+    "editor.overtypeCursorStyle": "line",
+    "editor.fontWeight": "500",
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "support.function",
+                    "meta.method.declaration",
+                    "meta.definition.method"
+                ],
+                "settings": {
+                    "fontStyle": "italic bold"
+                }
+            }
+        ]
+    }
+}
