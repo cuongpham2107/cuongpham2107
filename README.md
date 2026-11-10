@@ -139,20 +139,3 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cuongpham2107&theme=radical" alt="Cuong Pham's Most Committed Languages" />
   </a>
 </p>
-
-<hr/>
-
-<details>
-<summary><b>💡 Handy Dev Snippets</b></summary>
-<br/>
-
-**Enable window transparency / vibrancy in VS Code (macOS):**
-```bash
-sudo sed -i '' 's/webPreferences/frame:!1,transparent:!0,vibrancy:"under-window",opacity:0.9,webPreferences/' '/Applications/Visual Studio Code.app/Contents/Resources/app/out/main.js'
-```
-
-**Kill process occupying port `8000` (e.g. when `php artisan serve` fails):**
-```bash
-kill $(lsof -t -i:8000)
-```
-</details>
